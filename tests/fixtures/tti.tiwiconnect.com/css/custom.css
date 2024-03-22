@@ -1,0 +1,80 @@
+.tc-subheader {
+  font-size: 0.75em;
+  background-color: rgba(0, 0, 0, 1.0);
+  border-bottom: thick solid #c4ce51;
+  border-radius: 0px;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+  color: black;
+}
+
+.api-status {
+  color: #fff;
+}
+
+.tc-color-c,
+.btn-info,
+.alert-info {
+  background-color: #c4ce51;
+  border-color: #c4ce51;
+  color: white;
+}
+
+.btn-info:hover
+
+/* blue button */
+  {
+  background-color: #94ae31;
+}
+
+a {
+  color: #949e31;
+  text-decoration: none;
+}
+
+light {
+  font-size: 24px;
+  font-weight: 600;
+  color: #b4be51;
+}
+
+.nav-tabs>li>a {
+  color: #bbb;
+  font-size: 20px;
+}
+
+.nav-tabs>li>a:hover {
+  color: #fff;
+  background-color: #94ae31;
+}
+
+.nav-tabs>li.active>a,
+.nav-tabs>li.active>a:hover,
+.nav-tabs>li.active>a:focus {
+  color: #c4ce51;
+}
+
+.footer {
+  background: #333;
+  padding-top: 40px;
+  padding-bottom: 10px;
+  border-top: solid;
+  border-color: #e9f194;
+  margin-top: 20px;
+  color: #aaa;
+  bottom: 0;
+  position: relative;
+  width: 100%;
+
+}
+
+hr {
+  border: 0;
+  height: 1px;
+  background-image: linear-gradient(to right, rgba(196, 206, 81, 0), rgba(196, 206, 81, 0.75), rgba(196, 206, 81, 0));
+}
+
+.shaded-background {
+  background-color: #EFEFEF;
+}
